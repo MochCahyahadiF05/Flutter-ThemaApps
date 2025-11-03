@@ -26,6 +26,8 @@ project/
 │       ├── LobsterTwo-BoldItalic.ttf
 │       ├── LobsterTwo-Regular.ttf
 │       └── LobsterTwo-Italic.ttf
+|   └── image/
+|       ├── Screenshot-Result-ThemaApps.png
 ├── pubspec.yaml
 └── README.md
 ```
