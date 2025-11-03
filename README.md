@@ -2,7 +2,7 @@
 
 Aplikasi Flutter sederhana untuk mendemonstrasikan penggunaan custom font,sytle color background.
 
-## Informasi Mahasiswa
+## 
 - **Nama**: [Mochammad Cahyahadi Fadhlurrahman]
 - **NIM**: [23552011347]
 
