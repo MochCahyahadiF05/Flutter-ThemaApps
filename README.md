@@ -1,16 +1,31 @@
-# my_flutter_application
+# Flutter ThemaApps Demo 
 
-A new Flutter project.
+Aplikasi Flutter sederhana untuk mendemonstrasikan penggunaan custom font,sytle color background.
 
-## Getting Started
+## Informasi Mahasiswa
+- **Nama**: [Mochammad Cahyahadi Fadhlurrahman]
+- **NIM**: [23552011347]
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
+![Screenshot Aplikasi](assets/image/Screenshot-Result-ThemaApps.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cara Menjalankan
+1. Clone repository ini
+2. Jalankan `flutter pub get`
+3. Jalankan `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Struktur Project
+```
+project/
+├── lib/
+│   └── main.dart
+├── assets/
+│   └── fonts/
+│       ├── LobsterTwo-Bold.ttf
+│       ├── LobsterTwo-BoldItalic.ttf
+│       ├── LobsterTwo-Regular.ttf
+│       └── LobsterTwo-Italic.ttf
+├── pubspec.yaml
+└── README.md
+```
